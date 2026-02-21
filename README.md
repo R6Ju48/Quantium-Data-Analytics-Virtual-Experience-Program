@@ -1,29 +1,121 @@
-# Quantium-Data-Analytics-Virtual-Experience-Program
-Quantium-Data-Analytics
-This repository consists of 3 tasks for completed the Quantium Data Analytics Virtual Experience Program by Forage using Python.
+📊 Quantium Data Analytics Virtual Experience Program — Forage
 
-Certificate of Completion: 
-https://www.theforage.com/completion-certificates/32A6DqtsbF7LbKdcq/NkaC7knWtjSbi6aYv_32A6DqtsbF7LbKdcq_FWCv886QSE89gw3ES_1771633040071_completion_certificate.pdf
+A real-world data analytics project completed as part of the Quantium Data Analytics Virtual Experience Program offered by Forage. This project simulates how data analysts at Quantium use customer and transaction data to generate commercial insights and support business decision-making.
 
-Introduction
-Quantium has maintained a data collaboration with a prominent supermarket chain over the past several years, during which this supermarket has been providing transactional and customer data. Our team of employees work together to harness the power of data to drive revolutionary change that benefits us all and deliver the best results for our clients. As a data analyst at Quantium, your role involves delivering valuable data analytics and insights to assist the company in making strategic decisions.
+🏆 Certificate of Completion
 
-Supermarkets routinely alter their store layouts, product offerings, pricing, and promotional strategies. They do this in order to meet the evolving needs and preferences of their customers, stay competitive in a dynamic market, or take advantage of emerging opportunities. The Quantium analytics team actively participates in these processes, assessing and analyzing the outcomes of these changes and offering recommendations regarding their success.
+🔗 https://www.theforage.com/completion-certificates/32A6DqtsbF7LbKdcq/NkaC7knWtjSbi6aYv_32A6DqtsbF7LbKdcq_FWCv886QSE89gw3ES_1771633040071_completion_certificate.pdf
 
-Task 1 - Data preparation and customer analytics
-Conduct analysis on your client's transaction dataset and identify customer purchasing behaviours to generate insights and provide commercial recommendations.
+🚀 Project Overview
 
-Analyze transaction and customer data to identify trends and inconsistencies.
-Develop metrics and examine sales drivers to gain insights into overall sales performance.
-Create visualizations and prepare findings to formulate a clear recommendation for the client's strategy.
-Task 2 - Experimentation and uplift testing
-Extend your analysis from Task 1 to help you identify benchmark stores that allow you to test the impact of the trial store layouts on customer sales.
+Quantium collaborates with leading supermarket retailers by analyzing transactional and customer data to uncover valuable insights that drive strategic business decisions.
 
-Define metrics to select control stores.
-Analyze trial stores against controls.
-Use Python for data analysis and visualization and summarise findings and provide recommendations.
-Task 3 - Analytics and commercial application
-Use your analytics and insights from Task 1 and 2 to prepare a report for your client, the Category Manager.
+In this virtual experience, I worked as a Data Analyst, analyzing customer purchasing behaviour, evaluating store performance, and delivering data-driven commercial recommendations.
 
-Use the Pyramid Principles framework for structuring the report.
-Submit a report that incorporates data visualizations, key insights, and recommendations.
+Supermarkets frequently update:
+
+Store layouts
+
+Product placements
+
+Pricing strategies
+
+Promotional campaigns
+
+This project evaluates the impact of these changes using data analytics techniques.
+
+🎯 Objectives
+
+✔ Analyze customer and transaction data
+✔ Identify purchasing behaviour and trends
+✔ Evaluate store performance through experimentation
+✔ Generate data-driven business recommendations
+✔ Present insights in a structured commercial report
+
+🧩 Project Tasks
+📌 Task 1 — Data Preparation & Customer Analytics
+
+Cleaned and explored transaction datasets
+
+Identified customer purchasing behaviour
+
+Developed key performance metrics
+
+Analyzed sales drivers
+
+Created visualizations for business insights
+
+Provided strategic recommendations
+
+📌 Task 2 — Experimentation & Uplift Testing
+
+Identified benchmark (control) stores
+
+Evaluated trial store performance
+
+Measured impact of store layout changes
+
+Conducted statistical analysis using Python
+
+Delivered insights and recommendations
+
+📌 Task 3 — Analytics & Commercial Application
+
+Built a structured business report
+
+Applied Pyramid Principles framework
+
+Presented insights with data visualizations
+
+Delivered actionable recommendations for stakeholders
+
+🛠️ Tools & Technologies
+
+Python
+
+Pandas
+
+NumPy
+
+Matplotlib / Seaborn
+
+Data Cleaning & Exploration
+
+Data Visualization
+
+Statistical Analysis
+
+📈 Key Skills Demonstrated
+
+Data Cleaning & Preprocessing
+
+Exploratory Data Analysis (EDA)
+
+Customer Behaviour Analysis
+
+Experimental Design
+
+Business Insight Generation
+
+Data Storytelling
+
+Commercial Reporting
+
+💡 Business Impact
+
+This project demonstrates how data analytics can:
+
+Improve customer understanding
+
+Optimize store performance
+
+Support strategic decision-making
+
+Drive business growth through data insights
+
+📂 Repository Structure
+Task 1 → Data preparation & customer analytics
+Task 2 → Experimentation and uplift testing
+Task 3 → Commercial report and recommendations
+Data → Dataset files
+Data visualization → Charts and outputs
